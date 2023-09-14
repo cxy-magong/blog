@@ -13,8 +13,12 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://blog-8gg34ldt00506616-1312301613.ap-shanghai.app.tcloudbase.com/
+# permalink: :year/:month/:day/:title/  or abbrlink/
+permalink: :abbrlink/
+abbrlink: 
+  alg: crc16   #crc16(default) and crc32
+  rep: hex     #dec(default) and hex
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
