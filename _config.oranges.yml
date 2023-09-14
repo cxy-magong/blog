@@ -21,14 +21,15 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /images/favicon.png
-  touch_icon: /images/favicon.png
+  icon: /images/magong_head.jpg
+  touch_icon: /images/magong_head.jpg
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_photo: /images/magong_head.jpg
+  author_nickname: 程序员马工
   path: /
+  describe: 这个博客用来分享抖音/微信提到的资源、文档、链接
 
 # Google 分析
 # https://analytics.google.com
@@ -80,13 +81,13 @@ comments:
 # 主题页面导航栏
 navbar:
   -
-    name: Home
+    name: 主页
     enable: true
     path: /
     key: home
   -
-    name: Archives
-    enable: true
+    name: 列表
+    enable: false
     path: /archives/
     key: archives
   -
@@ -95,20 +96,26 @@ navbar:
     path: /categories/
     key: categories
   -
-    name: Tags
+    name: 标签
     enable: true
     path: /tags/
     key: tags
   -
-    name: Friends
-    enable: true
-    path: /friends/
+    name: 粉丝福利
+    enable: false
+    path: https://www.baidu.com
     key: friends
   -
-    name: About
+    name: 关于
     enable: true
     path: /about/
     key: about
+
+  -
+    name: GPT4
+    enable: false
+    path: https://www.douyin.com
+    key: GPT4
 
 # 文章目录
 catalog:
@@ -145,7 +152,7 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/cxy-magong?tab=repositories
     # -
     #   name: email
     #   icon: envelope
@@ -154,18 +161,24 @@ footer:
     #   name: facebook
     #   icon: facebooksquare
     #   path:
-    # -
-    #   name: twitter
-    #   icon: twitter
-    #   path:
-    # -
-    #   name: wechat
-    #   icon: wechat
-    #   path:
-    # -
-    #   name: weibo
-    #   icon: weibo
-    #   path:
+    -
+      name: weixin
+      icon: weixin
+      path: /images/qrcode_for_gzh.jpg
+    -
+      name: douyin
+      icon: douyin
+      path: https://www.douyin.com/user/MS4wLjABAAAAho2T5wBRqvxtjHsiZwZRLd6ez9qWREWsVifpeguz3lKSo8-y52whfIgjiOmGNMdu
+    -
+      name: bzhan
+      icon: bzhan
+      path: https://space.bilibili.com/3493135671888346?spm_id_from=333.1007.0.0
+
+    -
+      name: network
+      icon: network
+      path: https://ipw.cn/
+
     # -
     #   # rss需安装 hexo-generator-feed 插件
     #   # 具体参照https://github.com/hexojs/hexo-generator-feed
@@ -178,8 +191,8 @@ footer:
     # 一般用来显示根据各种场景需要切换的文本，如时间年份
     # 如：{thisYear} 会被替换为今年年份
     -
-      name: Copyright © {thisYear} Oranges
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      name: 桂ICP备2023003131号-1
+      path: https://beian.miit.gov.cn/
     -
       name: Theme by Oranges | Powered by Hexo
       path: https://github.com/zchengsite/hexo-theme-oranges
@@ -217,7 +230,7 @@ colorSwitch:
 
 # 文章分享
 postShare:
-  enable: true
+  enable: false
 
   twitter:
     enable: true
