@@ -6,13 +6,6 @@ tags:
   - GPT
   - AI
 ---
-```html
-<div align="center">
-   <a href="https://www.douyin.com/user/MS4wLjABAAAAho2T5wBRqvxtjHsiZwZRLd6ez9qWREWsVifpeguz3lKSo8-y52whfIgjiOmGNMdu"  target="_blank"><img width="20%" src="//p9-pc-sign.douyinpic.com/tos-cn-i-0004/114ce750560a44949fbccae7e9057d09~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&amp;from=3213915784&amp;s=PackSourceEnum_PUBLISH&amp;sc=cover&amp;se=true&amp;sh=323_430&amp;x-expires=2009955600&amp;x-signature=oCwtVEMIQaXOKuR%2Bf8C%2Bj342aSQ%3D" alt="图片描述" style="display: block; text-align: center; margin-top: 5px; font-size: 14px;"></a>
- <p   style="color: #808080; margin:0px; font-size:15px" >源视频地址</p >
-</div>
-
-```
 
 # 介绍
 <div align="center">
@@ -57,7 +50,9 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
 
 **获取海外节点**
 
-- 这是我目前使用的[海外节点 1元100G/月](https://jscloud.cc/signup.html?version=1.0&pcc=bcbfcc5269551b21)，网速大概在2M~8M/S之间，个人使用完全够用了。
+- 这是我目前使用的海外节点，网速大概在2M~8M/S之间，个人使用完全够用了。
+  - [2元100G/月](http://xn--4gq48lu1cd5x.com/#/register?code=1ElR7xIQ)
+  - [1元100G/月](https://jscloud.cc/signup.html?version=1.0&pcc=bcbfcc5269551b21)
 
 - 使用邮箱注册 - 登录 - 套餐购置 - 购买成功后 - 点击仪表盘 - 我的订阅：一键订阅 - 复制订阅地址
 
