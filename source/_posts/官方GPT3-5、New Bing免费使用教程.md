@@ -1,7 +1,7 @@
 ---
 title: 官方GPT3-5、New Bing免费使用教程
 abbrlink: '467'
-date: 2023-09-14 14:22:23
+date: 2023-09-13 14:22:23
 tags: 
   - GPT
   - AI
@@ -30,7 +30,7 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
 安卓版和电脑版（含中文补丁）已经打包好，可选择下列方式下载（网盘需要下载客户端）：
 
 - [中国移动网盘（不限速）](https://caiyun.139.com/m/i?0H5CKB4X7B7QV)  提取码: gtfD
-- [直链下载](https://sv-v.magong.site/resource/blog/467/Clash.zip)
+- [直链下载](https://sv-v.magong.site/dat/blog/467/Clash.zip)
 
 
 
@@ -74,8 +74,7 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
   <source src="https://sv-v.magong.site/dat/blog/467/clash%E4%BD%BF%E7%94%A8.mp4" type="video/mp4">
   无法加载内容/资源，请联系作者解决
 </video>
-
-
+<p  align="center" style="color: #808080; margin:0px; font-size:10px" >视频加载慢可能是你网络不支持ipv6，推荐手机4G/5G网络访问或下载视频</p >
 
 
 ## 开始使用
