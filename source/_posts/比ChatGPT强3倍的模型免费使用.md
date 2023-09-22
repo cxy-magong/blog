@@ -32,7 +32,10 @@ date: 2023-08-09 20:38:19
 
 
 ### **流量免费再续一个月**
-工具是免费的，不过流量有限。流量用完后，可以访问[这个网址](https://jscloud.cc/signup.html?version=1.0&pcc=bcbfcc5269551b21)再续30天的免费流量。
+工具是免费的，不过流量有限。流量用完后，可以根据需求购买：
+  - [2元100G/月](https://xianyuwangluo.top/#/register?code=KkxV7gv8)
+  - [3元350G/月](https://dash.fscloud.cc/#/register?code=KGWpvKBg)
+
 
 # Claude2支持的国家和地区
 

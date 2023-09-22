@@ -51,8 +51,8 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
 **获取海外节点**
 
 - 这是我目前使用的海外节点，网速大概在2M~8M/S之间，个人使用完全够用了。
-  - [2元100G/月](http://xn--4gq48lu1cd5x.com/#/register?code=1ElR7xIQ)
-  - [1元100G/月](https://jscloud.cc/signup.html?version=1.0&pcc=bcbfcc5269551b21)
+  - [2元100G/月](https://xianyuwangluo.top/#/register?code=KkxV7gv8)
+  - [3元350G/月](https://dash.fscloud.cc/#/register?code=KGWpvKBg)
 
 - 使用邮箱注册 - 登录 - 套餐购置 - 购买成功后 - 点击仪表盘 - 我的订阅：一键订阅 - 复制订阅地址
 
