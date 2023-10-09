@@ -17,6 +17,11 @@ hexo server -p 80
 ```
 
 
+# git
+```
+git push github
+git submodule foreach git push
+```
 
 ## 文章短连接
 
