@@ -25,8 +25,8 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
 
 - [中国移动网盘（不限速）](https://caiyun.139.com/m/i?0H5CKB4X7B7QV)  提取码: gtfD
 - 直链下载
-  - [安卓版](https://s3.magong.site/blog/hexo/467/ClashForAndroid-2.5.12.apk)
-  - [电脑版下载](https://s3.magong.site/blog/hexo/467/Clash.for.Windows-0.20.34-win.zip)
+  - [安卓版](http://s3.magong.site/blog/hexo/467/ClashForAndroid-2.5.12.apk)
+  - [电脑版下载](http://s3.magong.site/blog/hexo/467/Clash.for.Windows-0.20.34-win.zip)
 
 
 
@@ -67,10 +67,10 @@ Clash 是一款开源且流行网络工具，可以将你的连接到海外节�
 **视频教程**
 
 <video width="100%" controls>
-  <source src="https://s3.magong.site/blog/hexo/467/clash%E4%BD%BF%E7%94%A8.mp4" type="video/mp4">
+  <source src="http://s3.magong.site/blog/hexo/467/clash%E4%BD%BF%E7%94%A8.mp4" type="video/mp4">
   无法加载内容/资源，请联系作者解决
 </video>
-<p  align="center" style="color: #808080; margin:0px; font-size:10px" >视频加载慢可能是你网络不支持ipv6，推荐手机4G/5G网络访问或下载视频</p >
+<p  align="center" style="color: #808080; margin:0px; font-size:10px" ></p >
 
 
 ## 开始使用
